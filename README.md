@@ -1,6 +1,6 @@
 # UCBOOPExample
 
-Disclaimer: This code is not optimized and has not undergone any significant refactoring. The author recognizes several places where more efficient data structures and algorithms can be used to make the workflow more efficient and DRY.
+Disclaimer: This code is not optimized and has not undergone any significant refactoring. The author recognizes several places where more efficient data structures and algorithms can be used to make the workflow more concise and DRY.
 
 This coding sample demonstrates the use of multiple Javascript objects, both created and derived from JSON HTTP Responses.
 
