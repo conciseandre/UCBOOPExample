@@ -24,5 +24,5 @@ var functionalAreaMap = {
     "upcoming_wd_release_presentations": "Release Presentaton"
  };
  
- module.exports(functionalAreaMap);
+ module.exports = functionalAreaMap;
             
